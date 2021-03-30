@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**vicc30/vicc30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, my name is Victor 👋
+ 
+  - I'm a mechatronic engineering looking for new opportunities as a Full Stack Web Developer.
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - **Code**: Javascript, HTML & CSS, Bootstrap, NodeJS, Gulp, React, React Native
+  - **Tools**: Visual Studio, Git, GitHub, Figma, Linux...
+  - **Lenguages**: English, Spanish
+
+### Professional: Remote Programming, Teamwork
+
+  - I'm currently learning Express and MongoDB.
+  - I'm helping some non-profit organizations to improve their web sites.
+
+### How to reach me:
+
+ - Linkedin: [Victor Cruz Galindo](https://www.linkedin.com/in/vicc30/)
+

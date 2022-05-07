@@ -1,18 +1,18 @@
 
 ## Hi there, my name is Victor 👋
  
-  - I'm a mechatronic engineering looking for new opportunities as a Full Stack Web Developer.
+  - I'm just a guy that likes to code.
 
 ### Skills
 
-  - **Code**: Javascript, HTML & CSS, Bootstrap, NodeJS, Gulp, React, React Native
+  - **Code**: Javascript - React, HTML, CSS - SASS, Bootstrap, Typescript, NodeJS, MongoDB.
   - **Tools**: Visual Studio, Git, GitHub, Figma, Linux...
   - **Lenguages**: English, Spanish
 
-### Professional: Remote Programming, Teamwork
+### Professional: Remote Programming
 
-  - I'm currently learning Express and MongoDB.
-  - I'm helping some non-profit organizations to improve their web sites.
+  - I'm currently improving my Swift and iOS Programming.
+  - And working hard.
 
 ### How to reach me:
 

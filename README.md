@@ -24,13 +24,6 @@
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
 
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=vicc30&show_icons=true&hide_border=true" />
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicc30&layout=compact)
-
 ### 👨🏻‍💻 About Me
 
 💡 I'm a software developer, working on production of JS - React Web apps and iOS apps. \
@@ -40,3 +33,8 @@
 💬 Feel free to reach out to me for general consulting, or discussions about any topic\
 ✉️ You can email me at vicc23@gmail.com. I'll try to respond as soon as possible!\
 📄 You can check my [LinkedIn Profile](https://www.linkedin.com/in/vicc30/) for more details about work experience.
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=vicc30&show_icons=true&hide_border=true" />
+
+
+
